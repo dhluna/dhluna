@@ -19,11 +19,6 @@
 
 ---
 
-## 📊 My GitHub Stats:
-![Estadísticas](https://github-readme-stats.vercel.app/api?username=dhluna&show_icons=true&theme=radical)
-
----
-
 ## Connect with me:
 - [LinkedIn](https://www.linkedin.com/in/iamdiegohernandez/)
 
