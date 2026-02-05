@@ -1,7 +1,6 @@
 ## Hi! 👋 I'm Diego Hernández
 
-🌟  I am a software engineer and I enjoy my work. I build effective solutions using technology, and I like learning new tools to improve my skills. 
-    I try to keep learning every day so I can grow in my career and stay updated in the tech world.
+🌟  I am a software engineer, passionate about software development. I enjoy building useful solutions with technology and learning new tools to improve my skills.
 
 ---
 
