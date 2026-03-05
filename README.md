@@ -11,7 +11,7 @@
 ---
 
 ## 🔧 Technologies I use:
-- 🐍 Python, Django, FastAPI, Odoo
+- 🐍 Python, FastAPI, Odoo
 - 🖥️ Docker
 - 🗄️ PostgreSQL, MongoDB
 - ☁️ AWS
