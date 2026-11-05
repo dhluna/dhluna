@@ -22,4 +22,4 @@ Systems engineer and software developer specialized in Odoo and enterprise solut
 
 ## 🤝 Let's Connect
 
-[LinkedIn](https://www.linkedin.com/in/iamdiegohernandez/)
+<a href="https://www.linkedin.com/in/diegohdez-dev/" target="_blank" rel="noopener noreferrer">LinkedIn</a>
