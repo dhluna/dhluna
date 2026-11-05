@@ -18,7 +18,6 @@ Systems engineer and software developer specialized in Odoo and enterprise solut
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=flat-square)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=flat-square)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=flat-square)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square)
 
 ## 🤝 Let's Connect
 
