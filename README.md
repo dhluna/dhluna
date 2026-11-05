@@ -2,7 +2,7 @@
 
 **Backend Engineer** (Python) | Odoo Integrations | FastAPI · PostgreSQL · Docker
 
-Software engineer with 5+ years of experience, specializing in backend development and system integrations.
+Systems engineer and software developer specialized in Odoo and enterprise solutions. I work mainly on backend with Python and PostgreSQL, and on system integration through REST APIs. I use Docker and Git daily, and I’m focused on growing toward software architecture.
 
 ## 🚀 Areas of Focus
 
